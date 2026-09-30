@@ -1,3 +1,4 @@
+this line also from main branch
 adding first comment from main beanch
-adding comments from main branch
+editing this line from main branch 
 comment added from new-feature branch 
