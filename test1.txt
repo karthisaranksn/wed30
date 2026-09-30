@@ -2,3 +2,8 @@ this line also from main branch
 adding first comment from main beanch
 editing this line from main branch 
 comment added from new-feature branch 
+modifying the lines to get conflict 
+adding comments from main branch
+this line aswell modified 
+trying to go merge from feature branch
+comment added from feature branch
