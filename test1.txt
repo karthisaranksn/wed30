@@ -1,3 +1,5 @@
+modifying the lines to get conflict 
 adding comments from main branch
+this line aswell modified 
 trying to go merge from feature branch
 comment added from feature branch
